@@ -1,4 +1,4 @@
-require 'rails_helper'
+corequire 'rails_helper'
 
 RSpec.describe "posts/new", :type => :view do
   before(:each) do
